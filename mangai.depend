@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1432235558 source:c:\users\pranav prakash\documents\c++ expt\opencv\mangai\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+
+1432235558 
+
+1432291589 source:/home/panav/Documents/C++ expt/OpenCV/mangai/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+
